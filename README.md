@@ -1,0 +1,2 @@
+# Kast
+Kotlin Cast (Ducktyping)
